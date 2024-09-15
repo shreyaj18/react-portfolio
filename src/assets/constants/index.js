@@ -6,7 +6,7 @@ export const PROJECTS = [
       title: "Payment App",
       
       description:
-        "A basic version of paytment application website with features like registration, transfer, and token-based authentication.",
+        "A basic version of payment application website with features like registration, transfer, and token-based authentication.",
       technologies: [ "React", "Node.js", "MongoDB","Express", "Tailwind CSS"],
     },
     {
